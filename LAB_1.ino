@@ -24,7 +24,7 @@
 const char* ssid = "MonaConnect";
 const char* password = "";
 
-const char* mqtt_server = "test.mosquitto.org";   // MQTT broker IP
+const char* mqtt_server = "www.yanacreations.com";   // MQTT broker IP
 const int mqtt_port = 1883;
 
 const char* pub_topic = "rng/data";
